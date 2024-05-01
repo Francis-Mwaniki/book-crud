@@ -31,7 +31,7 @@ Follow these steps to set up and run the project on your local machine:
 1. Clone the repository:
 
 ```sh
-git clone git@github.com:Francis-Mwaniki/book-crud.git
+git clone git@github.com:Francis-Mwaniki/django-book-crud.git
 ```
 
 2. Navigate to the project directory:
