@@ -69,14 +69,6 @@ python manage.py runserver
 
 2. Open your web browser and navigate to `http://localhost:8000` to access the application.
 
-### Demo
-
-Here are some screenshots showcasing the application's user interface:
-
-![Book List](screenshots/book_list.png)
-![Create Book](screenshots/create_book.png)
-![Update Book](screenshots/update_book.png)
-![Delete Book](screenshots/delete_book.png)
 
 ## Contributing
 
