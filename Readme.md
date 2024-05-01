@@ -1,4 +1,3 @@
-Sure, here's a README.md file that describes your Django project and includes instructions for setting it up and running it:
 
 ```markdown
 # Django CRUD Book App
