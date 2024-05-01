@@ -1,5 +1,4 @@
 
-```markdown
 # Django CRUD Book App
 
 This is a simple Django web application that allows you to perform CRUD (Create, Read, Update, Delete) operations on books. The application provides a user-friendly interface for managing a book list, adding new books, updating existing books, and deleting books.
