@@ -31,32 +31,32 @@ Follow these steps to set up and run the project on your local machine:
 
 1. Clone the repository:
 
-```
+```sh
 git clone git@github.com:Francis-Mwaniki/book-crud.git
 ```
 
 2. Navigate to the project directory:
 
-```
+```sh
 cd django-crud-book-app
 ```
 
 3. Create a virtual environment and activate it:
 
-```
+```sh
 python3 -m venv myenv
 source myenv/bin/activate  # On Windows, use `myenv\Scripts\activate`
 ```
 
 4. Install the required dependencies:
 
-```
+```sh
 pip install -r requirements.txt
 ```
 
 5. Apply the database migrations:
 
-```
+```sh
 python manage.py migrate
 ```
 
@@ -64,7 +64,7 @@ python manage.py migrate
 
 1. Start the development server:
 
-```
+```sh
 python manage.py runserver
 ```
 
